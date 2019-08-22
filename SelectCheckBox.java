@@ -47,7 +47,10 @@ public class Form {
             chkFBPersist.click (); 			
             System.out.println("Facebook Persists Checkbox Status is -  "+chkFBPersist.isSelected());							
         }		
-		//driver.close();		
+		
+	    //driver.close();		
         		
     }		
 }
+
+
